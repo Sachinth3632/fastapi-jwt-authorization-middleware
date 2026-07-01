@@ -1,0 +1,6 @@
+[
+  "tests/test_cloud_strategy.py::test_cloud_strategy",
+  "tests/test_local_strategy.py::test_local_strategy",
+  "tests/test_provisioning.py::test_create_local_user",
+  "tests/test_token_service.py::test_token_service"
+]

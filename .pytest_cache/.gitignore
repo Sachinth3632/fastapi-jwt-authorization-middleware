@@ -1,0 +1,30 @@
+# Virtual Environment
+auth_venv/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local Database
+*.db
+
+# Cache
+.cache/
+
+data/users.json

@@ -1,0 +1,1 @@
+[{"id": "1", "username": "your_username", "hashed_password": "your_hashed_password", "is_active": true, "is_superuser": false, "auth_type": "local"}]
